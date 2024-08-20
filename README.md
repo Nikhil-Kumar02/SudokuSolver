@@ -1,8 +1,8 @@
 # SudokuSolver
-> A sudoku generating and solving algorithm built with ❤ and JavaFX
+> A sudoku generating and solving algorithm built using JavaFX
 
-This is a project build by students as a practical learning for Operating Systems-2. However, to have fun and learn
-new stuff we added some features and build UI to make stuff more fun and user-friendly.
+This project is build as a practical learning for Operating Systems-2. However, to have fun and learn
+new stuff I added some features and build UI to make stuff more fun and user-friendly.
 
 🔧 IDE: NetBeans <br />
 🎨 Design Language: Material Design <br />
